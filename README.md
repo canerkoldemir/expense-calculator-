@@ -1,7 +1,7 @@
 # expense-calculator-
 #### expense calculator 2021 <https://youtu.be/4LauocYqNyI>
-#### Description:This web application helps my friends and i during our weekly expenses. I used HTML,CSS,JAVASCRIPT,FLASK,PYTHON,MYSQLfor style filei
-#### used two css file.One of them for login and register and the other one for budget design file.I wanna to create seprate those files because i
+#### Description:This web application helps my friends and i during our weekly expenses. I used HTML,CSS,JAVASCRIPT,FLASK,PYTHON,MYSQLfor style file
+#### i used two css file.One of them for login and register and the other one for budget design file.I wanna to create seprate those files because i
 #### thought it will be less complicated for me.in js folder i added my budget.js This will help me in my budget page which is home page in the folders.
 #### I added event to the button and others (edit and delete function)
 #### in my js codes i wanna to add budget price and show that price on the other site, add my expenses and show on the other side and at the end.
